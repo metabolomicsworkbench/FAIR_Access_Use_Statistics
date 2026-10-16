@@ -17,4 +17,6 @@ analyzed separately.
 
 [MW_access_and_FAIR_report_May_2024.pdf](https://bdcw.org/MW/docs/MW_access_and_FAIR_report_May_2024.pdf): based on the logs over about one month (May 2024, unless indicated otherwise). GitHub access logs covered about six months (5/1/2024 – 5/31/2024).
 
+[MW_access_and_FAIR_report_Aug_2026.pdf](https://bdcw.org/MW/docs/MW_access_and_FAIR_report_Aug_2026.pdf): based on the logs over about one month (August 2026, unless indicated otherwise). GitHub access logs covered three months (3/04/2026 – 9/04/2026).
+
 [MW_access_and_FAIR_report_Apr_2025.pdf](https://bdcw.org/MW/docs/MW_access_and_FAIR_report_Apr_2025.pdf): based on the logs over about one month (April 2025, unless indicated otherwise). GitHub access logs covered three months (3/1/2025 – 6/01/2025).
